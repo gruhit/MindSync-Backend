@@ -5,3 +5,4 @@ openai
 supabase
 nltk
 vaderSentiment
+python-dotenv
