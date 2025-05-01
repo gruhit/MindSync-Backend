@@ -6,3 +6,5 @@ supabase
 nltk
 vaderSentiment
 python-dotenv
+google-generativeai 
+google-auth 
