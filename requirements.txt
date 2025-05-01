@@ -1,6 +1,7 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
+pydantic-settings
 openai
 supabase
 nltk
@@ -9,3 +10,14 @@ python-dotenv
 google-generativeai 
 google-auth 
 tensorflow-cpu
+textblob
+transformers
+sentence-transformers
+torch
+numpy
+python-multipart
+httpx
+logging
+datetime
+json
+typing
